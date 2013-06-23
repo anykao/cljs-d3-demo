@@ -1,0 +1,12 @@
+/target
+/checkouts
+/resources/public/components
+/resources/public/css
+/resources/public/js
+pom.xml
+*.jar
+*.class
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+.lein-repl-history
